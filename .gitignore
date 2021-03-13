@@ -1,0 +1,34 @@
+# Project exclude paths
+/.gradle/
+/Numeric Matrix Processor/task/build/
+/Numeric Matrix Processor/task/out/
+/Numeric Matrix Processor/task/out/production/classes/
+/Numeric Matrix Processor/task/out/test/classes/
+/Problems/Car speed/out/
+/Problems/Car speed/out/production/classes/
+/Problems/Cart/out/
+/Problems/Cart/out/production/classes/
+/Problems/Comparing sums/out/
+/Problems/Comparing sums/out/production/classes/
+/Problems/Complex numbers/out/
+/Problems/Complex numbers/out/production/classes/
+/Problems/copy() usage/out/
+/Problems/copy() usage/out/production/classes/
+/Problems/Elvis throwing exceptions/out/
+/Problems/Elvis throwing exceptions/out/production/classes/
+/Problems/equals() check/out/
+/Problems/equals() check/out/production/classes/
+/Problems/Handle number format exception/out/
+/Problems/Handle number format exception/out/production/classes/
+/Problems/Handling strings/out/
+/Problems/Handling strings/out/production/classes/
+/Problems/Integer division/out/
+/Problems/Integer division/out/production/classes/
+/Problems/Max of four numbers/out/
+/Problems/Max of four numbers/out/production/classes/
+/Problems/National assembly/out/
+/Problems/National assembly/out/production/classes/
+/Problems/The angle between vectors/out/
+/Problems/The angle between vectors/out/production/classes/
+/Problems/The Answer is/out/
+/Problems/The Answer is/out/production/classes/
